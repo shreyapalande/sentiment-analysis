@@ -3,6 +3,7 @@ Performing sentiment analysis on customer reviews involves using machine learnin
 
 ## Data Collection: 
 Dataset is taken from kaggle. Each entry is labeled as positive or negative.
+
 Link : https://www.kaggle.com/datasets/nicapotato/womens-ecommerce-clothing-reviews
 
 ## Data Preprocessing:
